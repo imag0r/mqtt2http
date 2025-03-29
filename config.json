@@ -1,0 +1,15 @@
+{
+    "http": {
+        "address": "0.0.0.0",
+        "port": 1884
+    },
+    "mqtt": {
+        "host": "localhost",
+        "port": 1883,
+        "user": "mqtt_user",
+        "password": "mqtt_password",
+        "topics": [
+            "#"
+        ]
+    }
+}
